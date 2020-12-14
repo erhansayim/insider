@@ -1,4 +1,4 @@
-# INSDR Pong Game
+# INSIDER Pong Game
 
 https://www.youtube.com/watch?v=fiShX2pTz9A
 
